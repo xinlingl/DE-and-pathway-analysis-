@@ -19,10 +19,14 @@ Perform differential expression of two groups of totalRNA-seq samples by calling
 
 **Targeted_RNAseq_Human_DE_analysis.R**
 <br />
-Perform differential expression of two groups of targeted RNA-seq samples by mapping Ensembl IDs to gene names and calling DESeq and select differentia expression gene candidates using pre-defined signoldificance 
+Perform differential expression of two groups of targeted RNA-seq samples by mapping Ensembl IDs to gene names and calling DESeq and select differentia expression gene candidates using pre-defined signoldificance. 
 
 <br />
 
 **TCGA_RNAseq_Human_DE_fixed_cutoff.R** 
 <br />
-Perform differential expression of two groups of RNA-seq samples from The Cancer Genome Atlas by mapping Ensembl IDs to gene names and calling DESeq and select differentia expression gene candidates using user-defined signoldificance 
+Perform differential expression of two groups of RNA-seq samples from The Cancer Genome Atlas by mapping Ensembl IDs to gene names and calling DESeq and select differentia expression gene candidates using user-defined signoldificance. 
+
+**Pathway_analysis_plot.R**
+<br />
+Generate plots to visualize the results of DAVID. 
