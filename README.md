@@ -19,13 +19,13 @@ Perform differential expression analysis of two groups of totalRNA-seq samples b
 
 **Targeted_RNAseq_Human_DE_analysis.R**
 <br />
-Perform differential expression analysis of two groups of targeted RNA-seq samples by mapping Ensembl IDs to gene names and calling DESeq and select differential expression gene candidates using pre-defined significance threshold. 
+Perform differential expression analysis of two groups of targeted human RNA-seq samples by mapping Ensembl IDs to gene names and calling DESeq and select differential expression gene candidates using pre-defined significance threshold. 
 
 <br />
 
 **TCGA_RNAseq_Human_DE_fixed_cutoff.R** 
 <br />
-Perform differential expression analysis of two groups of RNA-seq samples from The Cancer Genome Atlas by mapping Ensembl IDs to gene names and calling DESeq and select differential expression gene candidates using user-defined significance threshold. 
+Perform differential expression analysis of two groups of human RNA-seq samples from The Cancer Genome Atlas by mapping Ensembl IDs to gene names and calling DESeq and select differential expression gene candidates using user-defined significance threshold. 
 
 <br />
 
